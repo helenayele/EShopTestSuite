@@ -24,7 +24,7 @@ public class MyntraTest extends TestBase{
 
 	@Test
 	public void DummyTest(){
-
+      System.out.println("it is the first login test");
 	}
 	
 	
